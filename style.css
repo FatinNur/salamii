@@ -62,3 +62,6 @@ h1{
 .error-text{
     font-size: 30px;
 }
+.fn{
+    text-decoration: none;
+}
